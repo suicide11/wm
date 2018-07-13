@@ -1,0 +1,13 @@
+    *{
+      padding:0px;
+      margin:0px;
+    }
+    h1,h4{
+      background-color:magenta;
+      text-align:center;
+      padding:10px;
+    }
+    .form
+    {
+    	width:100%;
+    }
